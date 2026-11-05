@@ -54,11 +54,11 @@ Hoje isso vira prática de verdade: ajudo a construir e manter, **em produção*
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | **CM Port** (sistema de gestão) | Financeiro (notas, boletos, fluxo de caixa), serviços e OS, câmeras ao vivo e gravações, atendimento por WhatsApp | FastAPI, MySQL, Next.js, Docker |
-| **CM Port Moradores** | Aplicativo dos moradores para ver as câmeras do condomínio. [APK de teste](https://github.com/BielMoretti/cmport-app-apk) | TypeScript |
-| **CM Port OS** | Aplicativo dos técnicos para atender ordens de serviço em campo | TypeScript |
-| **Painel de operação** | Painel local para acompanhar a operação do dia a dia | HTML, JavaScript |
+| [**CM Port Moradores**](https://github.com/BielMoretti/cmport-app) | Aplicativo dos moradores: câmeras ao vivo e gravações do condomínio. [APK de teste](https://github.com/BielMoretti/cmport-app-apk) | React Native, Expo, TypeScript |
+| [**CM Port OS**](https://github.com/BielMoretti/cmport-app-os) | Aplicativo dos técnicos para atender ordens de serviço em campo | React Native, Expo, TypeScript |
+| [**CM Port Técnicos**](https://github.com/BielMoretti/cmport-app-tecnicos) | Aplicativo dos técnicos de câmeras: instalação ao vivo, fotos por item e fila de envio | React Native, Expo, TypeScript |
 
-> 🔒 Os repositórios desses projetos são privados (uso profissional). O que posso mostrar publicamente está em [cmport-app-apk](https://github.com/BielMoretti/cmport-app-apk).
+> 🔒 O sistema de gestão (servidor e painel web) é privado, de uso profissional. Os aplicativos acima têm o código aberto.
 
 ## 📊 Estatísticas
 
